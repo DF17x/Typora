@@ -88,7 +88,7 @@ Typora总共有六级标题，用#数量代表第几级标题（#后面需要加
 //图片链接的获取方式如本地图示例
 ```
 
-![DF17](../Images/Typora快速入门指南/timg)
+![DF17](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605724092678&di=3cff3ca38449f225d2ebfe616a2a0731&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fq_70%2Cc_zoom%2Cw_640%2Fimages%2F20200222%2F1afb644c232d48ae8b4377c4be8650a8.jpeg)
 
 ​    
 
